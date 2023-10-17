@@ -40,11 +40,6 @@ Follow these steps to run the Rick and Morty API:
 2. **Clone the Repository:**
    - Clone the Rick and Morty API repository to your local machine using Git:
 
-     ```shell
-     git clone <repository-url>
-     cd rick-and-morty-api
-     ```
-
 3. **Set Environment Variables:**
    - Create a **.env** file (if it doesn't already exist) in the project's root directory and set the necessary environment variables in the similar way:
 
